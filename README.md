@@ -11,7 +11,7 @@
 |   | Tasks  | Time  |
 | ------------ | ------------ | ------------ |
 |   | Request access to the [Author Staging]() tool. | 5 mins  |
-|   | Read the Jira workflow guide for deliverables management.  |   |
+|   | Read the [Jira workflow guide](https://ryzacinc.github.io/external-author-onboarding/using-jira) for deliverables management.  |   |
 |   | Watch the [video tutorial]() for creating a lesson in Author.  |   |
 |   | Watch the [video tutorial](https://www.youtube.com/watch?v=hkXmTatucrA) for creating a quiz in Author.  | 18 mins  |
 |   | Watch the [video tutorial]() for creating an project in Author.  |   |
