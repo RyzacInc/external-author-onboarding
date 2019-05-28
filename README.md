@@ -3,7 +3,7 @@
 ## Getting Started
 |   | Tasks  | Time  |
 | ------------ | ------------ | ------------ |
-|   | Read the [course milestones]() document.  | 20 mins  |
+|   | Read the [course milestones](https://ryzacinc.github.io/external-author-onboarding/course-milestones) document.  | 20 mins  |
 |   | Review the roles of .  | 15 mins  |
 |   | Read the learning standards document.  | 15 mins  |
 
