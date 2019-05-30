@@ -1,14 +1,5 @@
 # Welcome
 
-## Getting Started
-
-| Tasks  | Time  |
-| ------------ | ------------ |
-| Read the [course milestones](https://ryzacinc.github.io/external-author-onboarding/course-milestones).  | 20 mins  |
-| Review the external content production roles.  | 10 mins  |
-| Read the course outcomes document provided in the email.  | 15 mins  |
-| Read the learning standards document provided in the email.  | 15 mins  |
-
 ## Codecademy Tools
 
 | Tasks  | Time  |
@@ -27,3 +18,12 @@
 | Review the [content standards](http://codecademy-curriculum-documentation.s3-website-us-east-1.amazonaws.com/) to identify deliverable expectations. | 30 mins  |
 | Read the course outcomes document.  | 15 mins  |
 | Read the learning standards document.  | 15 mins  |
+
+# Getting Started
+
+| Tasks  | Time  |
+| ------------ | ------------ |
+| Read the [course milestones](https://ryzacinc.github.io/external-author-onboarding/course-milestones).  | 20 mins  |
+| Review the external content production roles.  | 10 mins  |
+| Read the course outcomes document provided in the email.  | 15 mins  |
+| Read the learning standards document provided in the email.  | 15 mins  |
