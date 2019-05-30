@@ -31,7 +31,7 @@ Projects in Jira are a cumulative group of workflows for a specific team or grou
 ### Team Members
 #### Project Administrator
 The project administrator, in most cases, is the team project manager. The project administrator maintains the project versions, components, and user roles.  They also maintain project boards and start/end project sprints, which we will discuss further in this document.
-#### Project Roles
+#### Roles in Jira
 Jira enables the project administrator to assign particular users to specific roles (i.e. `Author` or `Reviewer`). Roles define user capabilities and settings like frequency of Jira notifications. The project administrator can set up Jira notifications the appropriate roles when particular events take place in a project (i.e. when an issue is moved or a comment is made). You can choose specific people, groups, or roles to receive notifications.
 
 Roles oftentimes have different permissions associated with them. Permissions allow the project administrator to control who can access the project, and what they can do. Access to individual issues is granted to users by issue permissions.
