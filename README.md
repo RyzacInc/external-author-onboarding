@@ -24,5 +24,5 @@
 | ------------ | ------------ |
 | Read the [course milestones](https://ryzacinc.github.io/external-author-onboarding/course-milestones).  | 20 mins  |
 | Review the external content production roles.  | 10 mins  |
-| Read the course outcomes document provided in the email.  | 15 mins  |
-| Read the learning standards document provided in the email.  | 15 mins  |
+| Read the course outcomes document provided in the welcome email.  | 15 mins  |
+| Read the learning standards document provided in the welcome email.  | 15 mins  |
