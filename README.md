@@ -16,8 +16,7 @@
 | Tasks  | Time  |
 | ------------ | ------------ |
 | Review the [content standards](http://codecademy-curriculum-documentation.s3-website-us-east-1.amazonaws.com/) to identify deliverable expectations. | 30 mins  |
-| Read the course outcomes document.  | 15 mins  |
-| Read the learning standards document.  | 15 mins  |
+| Read the [pedagogical terminology](https://ryzacinc.github.io/external-author-onboarding/codecademy-pedagogy).  | 15 mins  |
 
 # Getting Started
 
