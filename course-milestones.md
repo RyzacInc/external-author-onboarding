@@ -5,7 +5,7 @@ These are the deliverables due during the lesson phase of course production:
 
 |  Deliverable | Description  |
 | ------------ | ------------ |
-| Lesson Outline  |  <ul><li>must be delivered in the outline template</li><li>an overview of the narrative for each exercise</li><li>an overview of the checkpoints or instructions for each exercise</li><li>an overview of the workspace for each exercise</li></ul> |
+| Lesson Outline  |  + must be delivered in the outline template + an overview of the narrative for each exercise + an overview of the checkpoints or instructions for each exercise + an overview of the workspace for each exercise |
 | Lesson Draft  | <ul><li>must be delivered in the draft template</li><li>fully-developed narratives, checkpoints, and workspaces with initial and final savepoints</li></ul>|
 | Final Lesson  | <ul><li>narratives, checkpoints, and workspaces with all savepoints</li><li>tests or default passes for all exercise checkpoints</li></ul>  |
 
