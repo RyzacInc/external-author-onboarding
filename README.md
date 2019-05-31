@@ -20,6 +20,7 @@
 | Read the [pedagogical terminology](https://ryzacinc.github.io/external-author-onboarding/codecademy-pedagogy).  | 15 mins  |
 
 # Getting Started
+### You are now acquainted with our pedagogy and tools. Now it's time to onboard to your specific assignment. Follow the tasks below to understand the goals and milestones of your project.
 
 | Tasks  | Time  |
 | ------------ | ------------ |
