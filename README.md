@@ -1,6 +1,5 @@
 # Welcome
 #### Welcome to Codecademy! We're so excited to have you work with our Curriculum team as an External Author. To help you get ready for content creation, we need to get you trained on our processes, systems, and tools. Follow the onboarding tasks below to complete your Codecademy training.
-<br/>
 
 ## Codecademy Tools
 
@@ -24,7 +23,6 @@
 
 # Getting Started
 #### You are now acquainted with our pedagogy and tools. Now it's time to onboard to your specific assignment. Follow the tasks below to understand the goals and milestones of your project.
-<br/>
 
 | Tasks  | Time  |
 | ------------ | ------------ |
