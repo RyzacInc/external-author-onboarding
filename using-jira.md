@@ -37,34 +37,7 @@ Jira enables the project administrator to assign particular users to specific ro
 Roles oftentimes have different permissions associated with them. Permissions allow the project administrator to control who can access the project, and what they can do. Access to individual issues is granted to users by issue permissions.
 
 ## Jira Boards
-Boards are a view of the project's workflow in the most current, or live, state of the project. Based on the workflow and anticipated outcome of the project, you must choose a Jira board style: scrum, kanban, or hybrid.
-
-### Kanban Boards
-We will be managing course production with a kanban board. Kanban boards manage work by visually displaying work and/or project tasks at various stages of the project or process.
-
-Swimlanes -  help you distinguish tasks of different categories, such as workstreams (horizontal for Scrum, vertical for kanban) - you can add limits to this
-Adding maximum for issues in a column
-Prioritizing items that are added to the potential work list then only commencing work on items when capacity exists to take them on (may use a backlog but not necessary for most projects.)
-Tracking items in progress so that items that have started are completed before new work is taken on
-Ensuring that items that are in progress do not get blocked indefinitely at any particular stage of the work
-Place priority on issues - Work items are ranked in priority order (from top to bottom) 
-See how long items have been in the columns
-WIP limits set the maximum amount of work that can exist in each status of a workflow
-improve throughput and reduce the amount of work "nearly done" - no idleness or overload
-make blockers and bottlenecks visible. Teams can swarm around blocking issues to get them understood, implemented, and resolved
-Important to size individual tasks consistently.
-Hybrid Boards
-Kanplan is ideal for teams who want the ability to backlog groom, but don’t want to work in sprints. (kanban with a backlog) Instead of having a long and disorganized to-do list with daily stand-ups and weekly planning meetings, we have a backlog
-Scrumban uses sprints with a backlog, WIP limits and cycle time from kanban. (Note: cycle time is the amount of time it takes for a task to go through a team’s workflow.)
+Boards are a view of the project's workflow in the most current, or live, state of the project. Based on the workflow and anticipated outcome of the project, you must choose a Jira board style: scrum, kanban, or hybrid. We will be managing course production with a **kanban board**. Kanban boards manage work by visually displaying work and/or project tasks at various stages of the project or process. 
 
 ## Issues
-Issues have progress statuses
-Issue types can be user stories, tasks, sub-tasks, bugs, spikes, support, improvement, etc
-Epics are a type of issue that has distinct starts and ends, lasts multiple sprints (not a grouping of items, thats a component), contain stories, bugs, tasks that have the same priority level; determine what your epics for the project board will be first (Add course description, priority, and assign to someone)!
-Stories are user stories
-Bugs are problems which impairs or prevents the functions of the product - this takes less priority than a standard task
-Improvement type describes a change that should be made but takes less priority than a standard bug or task)
-Subtasks are when multiple people are working on a story or bug
-You can add flags to alert that you need help with something
-Add task dependencies, attachments, code snippets
-You can add custom fields like time in status and days since the last comment on card
+Issues are the deliverable tickets that move through the kanban board as the project progresses. Each issue has an epic tag that's used to associate the issue to its course. For example, an issue may have the epic tag of `Introduction to HTML` because that is the course the issue is associated with. If you are stuck or need help with something, you should move the issue to the `Blocked` column. Issues also have fields like Google Drive attachments, link inputs, and deadlines that are used by the team to keep the project organized.
