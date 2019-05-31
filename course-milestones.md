@@ -3,6 +3,16 @@ The Curriculum team uses JIRA to manage the course production process. Once you'
 ## Deliverable Breakdown
 These are the deliverables due during the lesson phase of course production:
 
++---------------+---------------+--------------------+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | $1.34         | - built-in wrapper |
+|               |               | - bright color     |
++---------------+---------------+--------------------+
+| Oranges       | $2.10         | - cures scurvy     |
+|               |               | - tasty            |
++---------------+---------------+--------------------+
+
 |  Deliverable | Description  |
 | ------------ | ------------ |
 | Lesson Outline  |  + must be delivered in the outline template + an overview of the narrative for each exercise + an overview of the checkpoints or instructions for each exercise + an overview of the workspace for each exercise |
