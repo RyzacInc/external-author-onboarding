@@ -20,6 +20,7 @@
 | ------------ | ------------ |
 | Review the [content standards](http://codecademy-curriculum-documentation.s3-website-us-east-1.amazonaws.com/) to identify deliverable expectations. | 30 mins  |
 | Read the [pedagogical terminology](https://ryzacinc.github.io/external-author-onboarding/codecademy-pedagogy).  | 15 mins  |
+<br/>
 
 # Getting Started
 ### You are now acquainted with our pedagogy and tools. Now it's time to onboard to your specific assignment. Follow the tasks below to understand the goals and milestones of your project.
@@ -29,8 +30,8 @@
 | Tasks  | Time  |
 | ------------ | ------------ |
 | Complete the contact information [form](https://docs.google.com/forms/d/e/1FAIpQLSeGV0erg8lcYl39ZBhYMKq_n2GKsNjfXQGDPEzoh0aeqRk-Xg/viewform) for our internal team | 5 mins |
-| Read the [course milestones](https://ryzacinc.github.io/external-author-onboarding/course-milestones).  | 20 mins  |
 | Review the external content production roles.  | 10 mins  |
 | Read the course outcomes document provided in the welcome email.  | 15 mins  |
 | Read the learning standards document provided in the welcome email.  | 15 mins  |
-| Make a copy of the [lesson outline template](https://docs.google.com/document/d/1deblAga1woKiNSIZRUZQElPpFR2NfvTr1SSokWza_nM/edit) and share it with your Reviewer | 5 mins |
+| Read the course timeline document provided in the welcome email.  | 15 mins  |
+| Read the [course milestones](https://ryzacinc.github.io/external-author-onboarding/course-milestones).  | 20 mins  |
