@@ -6,6 +6,7 @@
 | Tasks  | Time  |
 | ------------ | ------------ |
 | Read the [Jira workflow guide](https://ryzacinc.github.io/external-author-onboarding/using-jira) for deliverables management.  |   |
+| Request access to the [Jira board](https://codecademy.atlassian.net/secure/RapidBoard.jspa?rapidView=99&projectKey=CPDE) tool. | 5 mins  |
 | Request access to the [Author Staging](https://author-staging.codecademy.com) tool. | 5 mins  |
 | Watch the [video tutorial]() for creating a lesson in Author.  |   |
 | Watch the [video tutorial](https://www.youtube.com/watch?v=hkXmTatucrA) for creating a quiz in Author.  | 18 mins  |
