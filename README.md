@@ -2,18 +2,27 @@
 #### Welcome to Codecademy! We're so excited to have you work with our Curriculum team as an External Author. To help you get ready for content creation, we need to get you trained on our processes, systems, and tools. Follow the onboarding tasks below to complete your Codecademy training.
 
 ## Codecademy Tools
+##### Follow the list of tasks below to get acquainted with our tools and processes on the Curriculum Programs team.
 
 | Tasks  | Time  |
 | ------------ | ------------ |
 | Read the [Jira workflow guide](https://ryzacinc.github.io/external-author-onboarding/using-jira) for deliverables management.  |   |
 | Request access to the [Jira board](https://codecademy.atlassian.net/secure/RapidBoard.jspa?rapidView=99&projectKey=CPDE) tool. | 5 mins  |
 | Request access to the [Author Staging](https://author-staging.codecademy.com) tool. | 5 mins  |
+
+## Tooling Tutorials
+##### Watch the relevant video tutorials that apply to your content production project.
+
+| Tasks  | Time  |
+| ------------ | ------------ |
 | Watch the [video tutorial]() for creating a lesson in Author.  |   |
+| Watch the [video tutorial]() for creating a video lesson in Author.  |   |
 | Watch the [video tutorial](https://www.youtube.com/watch?v=hkXmTatucrA) for creating a quiz in Author.  | 18 mins  |
 | Watch the [video tutorial]() for creating an project in Author.  |   |
-| Watch the video tutorial for developing workspaces.  |   |
+| Watch the [video tutorial]()for developing workspaces.  |   |
 
 ## Codecademy Pedagogy
+##### Follow the list of tasks below to get acquainted with our approach to teaching and the learner experience.
 
 | Tasks  | Time  |
 | ------------ | ------------ |
