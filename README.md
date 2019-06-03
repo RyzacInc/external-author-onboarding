@@ -19,7 +19,7 @@
 | Watch the [video tutorial]() for creating a video lesson in Author.  |   |
 | Watch the [video tutorial](https://www.youtube.com/watch?v=hkXmTatucrA) for creating a quiz in Author.  | 18 mins  |
 | Watch the [video tutorial]() for creating an project in Author.  |   |
-| Watch the [video tutorial]()for developing workspaces.  |   |
+| Watch the [video tutorial]() for developing workspaces.  |   |
 
 ## Codecademy Pedagogy
 ##### Follow the list of tasks below to get acquainted with our approach to teaching and the learner experience.
@@ -32,7 +32,7 @@
 <br/>
 
 # Getting Started
-#### You are now acquainted with our pedagogy and tools. Now it's time to onboard to your specific assignment. Follow the tasks below to understand the goals and milestones of your project.
+#### You are now acquainted with our pedagogy and tools. Now it's time to onboard to your specific assignment. Follow the tasks below to understand the goals and milestones of your project. Please refer to documentation provided in your welcome email to complete this portion of onboarding.
 
 | Tasks  | Time  |
 | ------------ | ------------ |
@@ -42,3 +42,5 @@
 | Read the learning standards document provided in the welcome email.  | 15 mins  |
 | Read the course timeline document provided in the welcome email.  | 15 mins  |
 | Read the [course milestones](https://ryzacinc.github.io/external-author-onboarding/course-milestones).  | 20 mins  |
+
+If you have any questions, please email the internal team at [curriculumprograms@codecademy.com](mailto:curriculumprograms@codecademy.com) and they will get back to you in 1 to 2 business days.
