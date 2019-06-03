@@ -2,7 +2,7 @@
 #### Welcome to Codecademy! We're so excited to have you work with our Curriculum team as an External Author. To help you get ready for content creation, we need to get you trained on our processes, systems, and tools. Follow the onboarding tasks below to complete your Codecademy training.
 
 ## Codecademy Tools
-##### Follow the list of tasks below to get acquainted with our tools and processes on the Curriculum Programs team.
+Follow the list of tasks below to get acquainted with our tools and processes on the Curriculum Programs team.
 
 | Tasks  | Time  |
 | ------------ | ------------ |
@@ -11,7 +11,7 @@
 | Request access to the [Author Staging](https://author-staging.codecademy.com) tool. | 5 mins  |
 
 ## Tooling Tutorials
-##### Watch the relevant video tutorials that apply to your content production project.
+Watch the relevant video tutorials that apply to your content production project.
 
 | Tasks  | Time  |
 | ------------ | ------------ |
@@ -22,7 +22,7 @@
 | Watch the [video tutorial]() for developing workspaces.  |   |
 
 ## Codecademy Pedagogy
-##### Follow the list of tasks below to get acquainted with our approach to teaching and the learner experience.
+Follow the list of tasks below to get acquainted with our approach to teaching and the learner experience.
 
 | Tasks  | Time  |
 | ------------ | ------------ |
