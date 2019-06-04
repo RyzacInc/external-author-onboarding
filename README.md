@@ -35,11 +35,11 @@ Watch the relevant video tutorials that apply to your content production project
 
 | Tasks  | Time  |
 | ------------ | ------------ |
-| Watch the [video tutorial]() for creating a lesson in Author.  |   |
-| Watch the [video tutorial](https://www.youtube.com/watch?v=ICTidLEy-ck&t=33s) for creating a video lesson in Author.  |   |
+| Watch the [video tutorial](https://www.youtube.com/watch?v=cyFZiPEy1ls) for creating a lesson in Author.  |  10 mins |
+| Watch the [video tutorial](https://www.youtube.com/watch?v=ICTidLEy-ck&t=33s) for creating a video lesson in Author.  |  7 mins |
 | Watch the [video tutorial](https://www.youtube.com/watch?v=hkXmTatucrA) for creating a quiz in Author.  | 18 mins  |
 | Watch the [video tutorial]() for creating an project in Author.  |   |
-| Watch the [video tutorial]() for developing workspaces.  |   |
+| Watch the [video tutorial](https://www.youtube.com/watch?v=vSNS49XTvJg) for developing workspaces.  |  12 mins  |
 
 <br/>
 
