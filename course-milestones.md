@@ -1,4 +1,4 @@
-# External Course Milestones 
+# Milestones and Delivery Expectations
 In this document, you will learn about the deliverables and milestones of this project. We will explain our expectations and provided a guides to meeting Codecademy standards.
 
 ## Deliverable Breakdown
@@ -26,6 +26,8 @@ These are the deliverables due during the project phase of course production:
 > __Action__ Check out our [content standards](http://codecademy-curriculum-documentation.s3-website-us-east-1.amazonaws.com/) for more on our expectations for deliverables.
 
 ## Review Process
+The Curriculum team uses [JIRA](https://codecademy.atlassian.net/secure/RapidBoard.jspa?projectKey=CPD&rapidView=99) to manage the course production process. Once you've moved the deliverable ticket to the `Ready for Review` column do not proceed to the next step until your reviewer has approved your submission. The reviewer approves deliverables by moving the JIRA ticket to the `Done` column.
+
 The goal of the review process is to ensure that the team is aligned and the vision for the content has been achieved. During the review process, the reviewer goes over the deliverable to ensure that the deliverable meets our content and quality standards. Once the review is complete, the reviewer may approve or deny the deliverable.
 
 If the deliverable is approved, you may move on to the next step. If the deliverable is denied, the reviewer will provide feedback using Jira and you must revise your work. You will then resubmit your revised work and await the second round of review. 
