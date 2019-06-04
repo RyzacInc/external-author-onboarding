@@ -14,7 +14,7 @@ These are the deliverables due during the project phase of course production:
 
 |  Deliverable | Description  |
 | ------------ | ------------ |
-| Solution Code  |  <ul><li>the final workspace, also known as the project solution code</li></ul> |
+| Solution Code  | <ul><li>the final workspace, also known as the project solution code</li></ul> |
 | Final Project  | <ul><li>the initial workspace</li><li>the final workspace</li><li>the project checkpoints that lead the learner from the start to the final workspace</li></ul>|
 
 These are the deliverables due during the project phase of course production:
