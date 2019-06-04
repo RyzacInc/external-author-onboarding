@@ -6,7 +6,7 @@
 | Read the course outcomes document provided in the welcome email.  | 15 mins  |
 | Read the learning standards document provided in the welcome email.  | 15 mins  |
 | Read the course timeline document provided in the welcome email.  | 15 mins  |
-| Read the [course milestones](https://ryzacinc.github.io/external-author-onboarding/course-milestones).  | 20 mins  |
+| Read the course milestones and deliverables [guide](https://ryzacinc.github.io/external-author-onboarding/course-milestones).  | 20 mins  |
 | Complete the contact information [form](https://docs.google.com/forms/d/e/1FAIpQLSeGV0erg8lcYl39ZBhYMKq_n2GKsNjfXQGDPEzoh0aeqRk-Xg/viewform) for our internal team | 5 mins |
 | Review the external content production [roles](https://ryzacinc.github.io/external-author-onboarding/roles).  | 10 mins  |
 
