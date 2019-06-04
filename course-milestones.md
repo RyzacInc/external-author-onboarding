@@ -1,5 +1,6 @@
 # External Course Milestones 
-The Curriculum team uses JIRA to manage the course production process. Once you've moved the deliverable ticket to the `Ready for Review` column do not proceed to the next step until your reviewer has approved your submission. The reviewer approves deliverables by moving the JIRA ticket to the `Done` column.
+In this document, you will learn about the deliverables and milestones of this project. We will explain our expectations and provided a guides to meeting Codecademy standards.
+
 ## Deliverable Breakdown
 These are the deliverables due during the lesson phase of course production:
 
