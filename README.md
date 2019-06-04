@@ -1,5 +1,5 @@
 # Getting Started
-#### You are now acquainted with our pedagogy and tools. Now it's time to onboard to your specific assignment. Follow the tasks below to understand the goals and milestones of your project. Please refer to documentation provided in your welcome email to complete this portion of onboarding.
+#### Welcome to Codecademy! We're so excited to have you work with our Curriculum team as an External Author. To help you get ready for content creation, we need to train you on our processes, systems, and tools. Follow the tasks below to understand the goals and milestones of your project. Please refer to documentation provided in your welcome email to complete this portion of onboarding.
 
 | Tasks  | Time  |
 | ------------ | ------------ |
@@ -11,7 +11,6 @@
 | Review the external content production [roles](https://ryzacinc.github.io/external-author-onboarding/roles).  | 10 mins  |
 
 # Welcome
-#### Welcome to Codecademy! We're so excited to have you work with our Curriculum team as an External Author. To help you get ready for content creation, we need to get you trained on our processes, systems, and tools. Follow the onboarding tasks below to complete your Codecademy training.
 
 ## Codecademy Pedagogy
 Follow the list of tasks below to get acquainted with our approach to teaching and the learner experience.
