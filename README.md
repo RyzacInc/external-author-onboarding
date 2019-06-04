@@ -28,6 +28,7 @@ Follow the list of tasks below to get acquainted with our tools and processes on
 | Read the [Jira workflow guide](https://ryzacinc.github.io/external-author-onboarding/using-jira) for deliverables management.  | 15 mins  |
 | Request access to the [Jira board](https://codecademy.atlassian.net/secure/RapidBoard.jspa?rapidView=99&projectKey=CPDE) tool. | 5 mins  |
 | Request access to the [Author Staging](https://author-staging.codecademy.com) tool. | 5 mins  |
+| Read the [Author training](https://docs.google.com/presentation/d/1WN0CajhiWJdeRigTlRtqDUlnKd180ZkzpHkqUHg6Djk/edit?usp=sharing) guide to get familiar with the tool. | 15 mins |
 
 ## Author Tutorials
 Watch the relevant video tutorials that apply to your content production project.
