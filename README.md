@@ -17,7 +17,7 @@ Follow the list of tasks below to get acquainted with our approach to teaching a
 
 | Tasks  | Time  |
 | ------------ | ------------ |
-| Review the [content standards](http://codecademy-curriculum-documentation.s3-website-us-east-1.amazonaws.com/) to identify deliverable expectations. | 30 mins  |
+| Review the [content standards](http://codecademy-curriculum-documentation.s3-website-us-east-1.amazonaws.com/) to identify deliverable expectations. | 60 mins  |
 | Read the [pedagogical terminology](https://ryzacinc.github.io/external-author-onboarding/codecademy-pedagogy).  | 15 mins  |
 
 ## Codecademy Tools
